@@ -1,0 +1,15 @@
+# Bytecode / caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de editor / SO
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
